@@ -27,9 +27,9 @@ class Menu {
                 r.showData();
                 break;
             case 3:
-            c.getData();
-            c.calculateArea();
-            c.showData();
+                c.getData();
+                c.calculateArea();
+                c.showData();
                 break;
             default:
                 System.err.println("Please enter a valid menu option!");
